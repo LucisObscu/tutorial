@@ -28,4 +28,4 @@ def show(request):
             'curriculum':curriculum
         }
     )
-#수정!!!!!
+#수정!!!!!2
