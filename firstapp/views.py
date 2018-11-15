@@ -14,6 +14,7 @@ def index2(request):
 def main(request):
     return HttpResponse("<h1>Hi<h1>")
 
+
 def show(request):
     curriculum=Curriculum.objects.all()
     html=""
